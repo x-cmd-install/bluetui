@@ -5,13 +5,13 @@ about:
   head: f509f30
   archived: false
   latestVersion: "v0.8.1"
-  collectedAt: 2026-09-07T05:48:39Z
+  collectedAt: 2026-09-07T18:41:37Z
 timeline:
   created: 2024-02-21
   lastCommit: 2026-08-28
   lastRelease: 2026-01-17
 popularity:
-  star: 2996
+  star: 2997
   watcher: 12
   fork: 80
   release: 12
@@ -81,7 +81,7 @@ total:
   commit: 163
 ---
 path: /home/runner/.x-repo/github.com/pythops/bluetui
-collectedAt: 2026-09-07T05:48:40Z
+collectedAt: 2026-09-07T18:41:38Z
 loc:
   Rust:
     code: 3523
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:48:42+00:00
+  collectedAt: 2026-09-07T18:41:38+00:00
   platform:
     darwin/arm64:
       name:  null
