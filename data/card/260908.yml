@@ -5,7 +5,7 @@ about:
   head: f509f30
   archived: false
   latestVersion: "v0.8.1"
-  collectedAt: 2026-09-08T02:57:50Z
+  collectedAt: 2026-09-08T05:41:39Z
 timeline:
   created: 2024-02-21
   lastCommit: 2026-08-28
@@ -81,7 +81,7 @@ total:
   commit: 163
 ---
 path: /home/runner/.x-repo/github.com/pythops/bluetui
-collectedAt: 2026-09-08T02:57:50Z
+collectedAt: 2026-09-08T05:41:40Z
 loc:
   Rust:
     code: 3523
