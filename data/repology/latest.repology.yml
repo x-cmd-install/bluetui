@@ -1,0 +1,318 @@
+- repo: aerynos
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  licenses:
+    - GPL-3.0-only
+- repo: alpine_edge
+  subrepo: testing
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-r0
+  status: newest
+  summary: TUI for managing bluetooth
+  maintainers:
+    - roadroller01@duck.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: bluetui
+  binname: bluetui-doc
+  visiblename: bluetui-doc
+  version: 0.8.1
+  origversion: 0.8.1-r0
+  status: newest
+  summary: TUI for managing bluetooth (documentation)
+  maintainers:
+    - roadroller01@duck.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: arch
+  subrepo: extra
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-2
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-only
+- repo: gentoo
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: gentoo
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.7.2
+  origversion: null
+  status: legacy
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: gentoo
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.8.0
+  origversion: null
+  status: legacy
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: bluetui
+  binnames:
+    - bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-1
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - GPL-3.0
+  categories:
+    - Network/Bluetooth
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: bluetui
+  binnames:
+    - bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-1
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - GPL-3.0
+  categories:
+    - Network/Bluetooth
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: bluetui
+  binnames:
+    - bluetui
+    - bluetui-debuginfo
+    - bluetui-debugsource
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-1.6
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - Hardware/Other
+- repo: parabola
+  subrepo: extra
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-2
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-only
+- repo: liguros_develop
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.7.2
+  origversion: null
+  status: legacy
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: liguros_develop
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.8.0
+  origversion: null
+  status: legacy
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: liguros_develop
+  srcname: net-wireless/bluetui
+  visiblename: net-wireless/bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - GPL-3 BSD-2 MIT MPL-2.0 Unicode-3.0 Unicode-DFS-2016 WTFPL-2 ZLIB || ( Apache-2.0 Boost-1.0 )
+  categories:
+    - net-wireless
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-2
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-2
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-2
+  status: newest
+  summary: TUI for managing bluetooth devices
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: bluetui
+  visiblename: bluetui
+  version: "0.6"
+  origversion: null
+  status: outdated
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - donovanglover@github
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.8.0
+  origversion: null
+  status: outdated
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - donovanglover@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - donovanglover@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - donovanglover@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: bluetui
+  binnames:
+    - bluetui
+    - bluetui-debuginfo
+    - bluetui-debugsource
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1-1
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPL-3.0
+  categories:
+    - System/Configuration/Hardware
+- repo: t2
+  srcname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: null
+  status: newest
+  summary: TUI for managing bluetooth on Linux
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - GPL3
+  categories:
+    - extra/tool
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: bluetui
+  binname: bluetui
+  visiblename: bluetui
+  version: 0.8.1
+  origversion: 0.8.1_1
+  status: newest
+  summary: TUI for managing bluetooth devices
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - GPL-3.0-only
