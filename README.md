@@ -37,7 +37,7 @@ Total: **3,656** lines of code across **30** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,002 · **Forks**: 78 · **Open issues**: 83 · **Contributors**: 26
+- **Stars**: 3,005 · **Forks**: 78 · **Open issues**: 83 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,656** lines of code across **30** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 2 | 1 |
-| last60d | 2026-07-15 | 0 | 1 | 1 | 1 | 3 | 1 |
-| 90d | 2026-06-15 | 0 | 1 | 1 | 2 | 3 | 4 |
-| last180d | 2026-03-17 | 0 | 7 | 1 | 8 | 5 | 42 |
-| 360d | 2025-09-18 | 5 | 24 | 3 | 29 | 9 | 76 |
-| last720d | 2024-09-23 | 6 | 39 | 3 | 52 | 13 | 102 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 2 | 1 |
+| last60d | 2026-07-16 | 0 | 1 | 1 | 1 | 3 | 1 |
+| 90d | 2026-06-16 | 0 | 1 | 1 | 2 | 3 | 4 |
+| last180d | 2026-03-18 | 0 | 7 | 1 | 8 | 5 | 42 |
+| 360d | 2025-09-19 | 5 | 24 | 3 | 29 | 9 | 76 |
+| last720d | 2024-09-24 | 6 | 39 | 3 | 52 | 13 | 102 |
 
 ## Release assets
 
@@ -60,18 +60,6 @@ Total: **3,656** lines of code across **30** files in the top 5 languages.
 |-------|-----:|--------|
 | [bluetui-aarch64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.1/bluetui-aarch64-linux-musl) | 3.2 MiB | `native/linux/arm64/musl` |
 | [bluetui-x86_64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.1/bluetui-x86_64-linux-musl) | 3.7 MiB | `native/linux/x64/musl` |
-
-## Distribution status
-
-Reported by **25** distros on [repology.org](https://repology.org/project/bluetui). **18** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.8.1` | ✅ latest |
-| Nix unstable | `0.8.1` | ✅ latest |
-| Void | `0.8.1` | ✅ latest |
-| Alpine edge | `0.8.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.8.1` | ✅ latest |
 
 ## Improve this data
 
@@ -82,4 +70,4 @@ Install metadata for bluetui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:03:24Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:18:34Z._
