@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2990784,
       "digest": "sha256:11895061bbaf4e51b02800a2cbb3a94a2d1810fc6fc65c1879af8af9d4ad6d34",
-      "download_count": 8,
+      "download_count": 16,
       "created_at": "2026-10-07T18:35:27Z",
       "updated_at": "2026-10-07T18:35:28Z",
       "browser_download_url": "https://github.com/pythops/bluetui/releases/download/v0.8.2/bluetui-aarch64-linux-musl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3437856,
       "digest": "sha256:b476ee473cb4f7a48cd75d440e991bedc835ff5ac704aac1f1992f8e826222fd",
-      "download_count": 21,
+      "download_count": 43,
       "created_at": "2026-10-07T18:35:27Z",
       "updated_at": "2026-10-07T18:35:28Z",
       "browser_download_url": "https://github.com/pythops/bluetui/releases/download/v0.8.2/bluetui-x86_64-linux-musl"
