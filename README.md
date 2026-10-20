@@ -37,22 +37,22 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,052 · **Forks**: 84 · **Open issues**: 83 · **Contributors**: 26
+- **Stars**: 3,052 · **Forks**: 84 · **Open issues**: 84 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 47 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 9 · **Commits**: 167
+- **Releases**: 13 · **Merged PRs**: 47 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 10 · **Commits**: 167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 1 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-20 | 1 | 1 | 0 | 1 | 0 | 5 |
-| 90d | 2026-07-21 | 1 | 1 | 0 | 3 | 0 | 5 |
-| last180d | 2026-04-22 | 1 | 3 | 0 | 7 | 1 | 9 |
-| 360d | 2025-10-24 | 4 | 21 | 0 | 28 | 6 | 74 |
-| last720d | 2024-10-29 | 7 | 39 | 0 | 55 | 9 | 104 |
+| 30d | 2026-09-20 | 1 | 1 | 0 | 0 | 1 | 4 |
+| last60d | 2026-08-21 | 1 | 1 | 0 | 1 | 1 | 5 |
+| 90d | 2026-07-22 | 1 | 1 | 0 | 3 | 1 | 5 |
+| last180d | 2026-04-23 | 1 | 3 | 0 | 7 | 2 | 9 |
+| 360d | 2025-10-25 | 4 | 20 | 0 | 28 | 7 | 74 |
+| last720d | 2024-10-30 | 7 | 39 | 0 | 55 | 10 | 104 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for bluetui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:33:40Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:51:29Z._
