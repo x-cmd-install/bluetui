@@ -32,27 +32,27 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.2` (2026-10-07)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,059 · **Forks**: 86 · **Open issues**: 85 · **Contributors**: 26
+- **Stars**: 3,062 · **Forks**: 86 · **Open issues**: 85 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 47 · **Open PRs**: 1 · **Closed issues**: 75 · **Open issues**: 10 · **Commits**: 167
+- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 75 · **Open issues**: 10 · **Commits**: 168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 1 | 1 | 1 | 1 | 4 |
-| last60d | 2026-08-25 | 1 | 1 | 1 | 2 | 1 | 5 |
-| 90d | 2026-07-26 | 1 | 1 | 1 | 4 | 1 | 5 |
-| last180d | 2026-04-27 | 1 | 3 | 1 | 8 | 2 | 9 |
-| 360d | 2025-10-29 | 4 | 20 | 1 | 29 | 7 | 74 |
-| last720d | 2024-11-03 | 7 | 39 | 1 | 56 | 10 | 104 |
+| 30d | 2026-09-25 | 1 | 2 | 0 | 1 | 1 | 5 |
+| last60d | 2026-08-26 | 1 | 2 | 0 | 2 | 1 | 5 |
+| 90d | 2026-07-27 | 1 | 2 | 0 | 4 | 1 | 6 |
+| last180d | 2026-04-28 | 1 | 4 | 0 | 8 | 2 | 10 |
+| 360d | 2025-10-30 | 4 | 21 | 0 | 29 | 7 | 70 |
+| last720d | 2024-11-04 | 7 | 40 | 0 | 56 | 10 | 105 |
 
 ## Release assets
 
@@ -63,7 +63,7 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/bluetui). **8** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/bluetui). **10** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for bluetui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:28:58Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:35:23Z._
