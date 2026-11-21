@@ -14,11 +14,11 @@ x install bluetui
 
 ## Code insight
 
-Total: **3,634** lines of code across **30** files in the top 5 languages.
+Total: **3,635** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,504 | 35 | 414 | 24 |
+| Rust | 3,505 | 35 | 414 | 24 |
 | Nix | 63 | 0 | 3 | 2 |
 | Toml | 42 | 0 | 3 | 1 |
 | Svg | 25 | 5 | 2 | 1 |
@@ -32,27 +32,27 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.2` (2026-10-07)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,079 · **Forks**: 86 · **Open issues**: 86 · **Contributors**: 27
+- **Stars**: 3,078 · **Forks**: 87 · **Open issues**: 87 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 75 · **Open issues**: 11 · **Commits**: 168
+- **Releases**: 13 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 76 · **Open issues**: 11 · **Commits**: 169
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 1 | 1 | 1 |
-| last60d | 2026-09-21 | 1 | 2 | 0 | 1 | 2 | 5 |
-| 90d | 2026-08-22 | 1 | 2 | 0 | 2 | 2 | 6 |
-| last180d | 2026-05-24 | 1 | 4 | 0 | 7 | 3 | 9 |
-| 360d | 2025-11-25 | 2 | 13 | 0 | 23 | 8 | 56 |
-| last720d | 2024-11-30 | 7 | 40 | 0 | 53 | 10 | 104 |
+| 30d | 2026-10-22 | 0 | 1 | 0 | 2 | 1 | 2 |
+| last60d | 2026-09-22 | 1 | 3 | 0 | 2 | 2 | 6 |
+| 90d | 2026-08-23 | 1 | 3 | 0 | 3 | 2 | 7 |
+| last180d | 2026-05-25 | 1 | 5 | 0 | 8 | 3 | 10 |
+| 360d | 2025-11-26 | 2 | 14 | 0 | 24 | 8 | 57 |
+| last720d | 2024-12-01 | 7 | 41 | 0 | 54 | 10 | 105 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for bluetui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:09:02Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:46:57Z._
