@@ -14,15 +14,15 @@ x install bluetui
 
 ## 代码洞察
 
-合计: **3,635** 行代码（覆盖前 5 种语言、共 **30** 个文件）。
+合计: **3,634** 行代码（覆盖前 5 种语言、共 **30** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Rust | 3,505 | 35 | 414 | 24 |
 | Nix | 63 | 0 | 3 | 2 |
-| Toml | 42 | 0 | 3 | 1 |
+| Toml | 41 | 0 | 3 | 1 |
 | Svg | 25 | 5 | 2 | 1 |
-| Markdown | 0 | 118 | 73 | 2 |
+| Markdown | 0 | 123 | 75 | 2 |
 
 ## 源代码
 
@@ -31,47 +31,47 @@ x install bluetui
 
 ## 发布
 
-- **最新版本**: `v0.8.2` (2026-10-07)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v0.8.3` (2026-11-22)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 3,078 · **Fork**: 87 · **开放 issue**: 87 · **贡献者**: 28
+- **Star**: 3,077 · **Fork**: 87 · **开放 issue**: 88 · **贡献者**: 28
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 49 · **开放 PR**: 0 · **已关闭 issue**: 76 · **开放 issue**: 11 · **提交数**: 169
+- **发布数**: 14 · **已合并 PR**: 49 · **开放 PR**: 0 · **已关闭 issue**: 76 · **开放 issue**: 12 · **提交数**: 170
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-09-23 | 1 | 3 | 0 | 2 | 2 | 6 |
-| 90d | 2026-08-24 | 1 | 3 | 0 | 3 | 2 | 6 |
-| last180d | 2026-05-26 | 1 | 5 | 0 | 8 | 3 | 10 |
-| 360d | 2025-11-27 | 2 | 14 | 0 | 24 | 8 | 57 |
-| last720d | 2024-12-02 | 7 | 41 | 0 | 54 | 10 | 105 |
+| 30d | 2026-10-24 | 1 | 1 | 0 | 1 | 2 | 2 |
+| last60d | 2026-09-24 | 2 | 3 | 0 | 2 | 3 | 7 |
+| 90d | 2026-08-25 | 2 | 3 | 0 | 3 | 3 | 7 |
+| last180d | 2026-05-27 | 2 | 5 | 0 | 8 | 4 | 11 |
+| 360d | 2025-11-28 | 3 | 14 | 0 | 24 | 9 | 58 |
+| last720d | 2024-12-03 | 8 | 41 | 0 | 54 | 11 | 106 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bluetui-aarch64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.2/bluetui-aarch64-linux-musl) | 2.9 MiB | `native/linux/arm64/musl` |
-| [bluetui-x86_64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.2/bluetui-x86_64-linux-musl) | 3.3 MiB | `native/linux/x64/musl` |
+| [bluetui-aarch64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.3/bluetui-aarch64-linux-musl) | 2.9 MiB | `native/linux/arm64/musl` |
+| [bluetui-x86_64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.3/bluetui-x86_64-linux-musl) | 3.3 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/bluetui) 上共有 **29** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/bluetui) 上共有 **29** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**22** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.8.2` | ✅ latest |
-| Nix unstable | `0.8.2` | ✅ latest |
+| Arch | `0.8.3` | ✅ latest |
+| Nix unstable | `0.8.2` | ⚠️ outdated |
 | Void | `0.8.1` | ⚠️ outdated |
 | Alpine edge | `0.8.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.8.2` | ✅ latest |
+| openSUSE Tumbleweed | `0.8.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ bluetui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T08:17:05Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T08:42:31Z._
