@@ -14,11 +14,11 @@ x install bluetui
 
 ## Code insight
 
-Total: **3,634** lines of code across **30** files in the top 5 languages.
+Total: **3,641** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 3,505 | 35 | 414 | 24 |
+| Rust | 3,512 | 35 | 417 | 24 |
 | Nix | 63 | 0 | 3 | 2 |
 | Toml | 41 | 0 | 3 | 1 |
 | Svg | 25 | 5 | 2 | 1 |
@@ -32,27 +32,27 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.3` (2026-11-22)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,077 · **Forks**: 87 · **Open issues**: 88 · **Contributors**: 28
+- **Stars**: 3,080 · **Forks**: 87 · **Open issues**: 88 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 76 · **Open issues**: 12 · **Commits**: 170
+- **Releases**: 14 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 77 · **Open issues**: 11 · **Commits**: 171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 1 | 0 | 1 | 2 | 2 |
-| last60d | 2026-09-24 | 2 | 3 | 0 | 2 | 3 | 7 |
-| 90d | 2026-08-25 | 2 | 3 | 0 | 3 | 3 | 7 |
-| last180d | 2026-05-27 | 2 | 5 | 0 | 8 | 4 | 11 |
-| 360d | 2025-11-28 | 3 | 14 | 0 | 24 | 9 | 58 |
-| last720d | 2024-12-03 | 8 | 41 | 0 | 54 | 11 | 106 |
+| 30d | 2026-10-25 | 1 | 1 | 0 | 2 | 1 | 3 |
+| last60d | 2026-09-25 | 2 | 3 | 0 | 3 | 2 | 8 |
+| 90d | 2026-08-26 | 2 | 3 | 0 | 4 | 2 | 8 |
+| last180d | 2026-05-28 | 2 | 5 | 0 | 9 | 3 | 12 |
+| 360d | 2025-11-29 | 3 | 14 | 0 | 25 | 8 | 59 |
+| last720d | 2024-12-04 | 8 | 41 | 0 | 55 | 10 | 107 |
 
 ## Release assets
 
@@ -63,7 +63,7 @@ Total: **3,634** lines of code across **30** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/bluetui). **1** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/bluetui). **4** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for bluetui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:42:31Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:37:55Z._
