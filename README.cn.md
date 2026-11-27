@@ -37,7 +37,7 @@ x install bluetui
 
 ## 流行度
 
-- **Star**: 3,083 · **Fork**: 88 · **开放 issue**: 88 · **贡献者**: 28
+- **Star**: 3,084 · **Fork**: 88 · **开放 issue**: 88 · **贡献者**: 28
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install bluetui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 1 | 0 | 2 | 1 | 3 |
-| last60d | 2026-09-27 | 2 | 3 | 0 | 3 | 2 | 8 |
-| 90d | 2026-08-28 | 2 | 3 | 0 | 4 | 2 | 8 |
-| last180d | 2026-05-30 | 2 | 5 | 0 | 9 | 3 | 12 |
-| 360d | 2025-12-01 | 3 | 14 | 0 | 25 | 8 | 59 |
-| last720d | 2024-12-06 | 8 | 41 | 0 | 55 | 10 | 107 |
+| 30d | 2026-10-28 | 1 | 1 | 0 | 2 | 1 | 3 |
+| last60d | 2026-09-28 | 2 | 3 | 0 | 3 | 2 | 8 |
+| 90d | 2026-08-29 | 2 | 3 | 0 | 4 | 2 | 8 |
+| last180d | 2026-05-31 | 2 | 5 | 0 | 9 | 3 | 12 |
+| 360d | 2025-12-02 | 3 | 14 | 0 | 25 | 8 | 59 |
+| last720d | 2024-12-07 | 8 | 41 | 0 | 55 | 10 | 107 |
 
 ## Release 资产
 
@@ -60,6 +60,18 @@ x install bluetui
 |------|-----:|----------|
 | [bluetui-aarch64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.3/bluetui-aarch64-linux-musl) | 2.9 MiB | `native/linux/arm64/musl` |
 | [bluetui-x86_64-linux-musl](https://github.com/pythops/bluetui/releases/download/v0.8.3/bluetui-x86_64-linux-musl) | 3.3 MiB | `native/linux/x64/musl` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/bluetui) 上共有 **29** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**19** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.8.3` | ✅ latest |
+| Nix unstable | `0.8.2` | ⚠️ outdated |
+| Void | `0.8.1` | ⚠️ outdated |
+| Alpine edge | `0.8.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.8.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -70,4 +82,4 @@ bluetui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:07:07Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:14:04Z._
